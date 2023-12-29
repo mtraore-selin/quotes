@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const quotesSchema = new mongoose.Schema(
   {
-    quotes: {
+    quote: {
       type: String,
       require: true,
     },
