@@ -285,7 +285,7 @@ describe("Quote API endpoints", () => {
 passing
 ![Alt Text](cov-quote-crud.png)
 
-```
+```bash
 Debugger attached.
  PASS  api/tests/quotes.test.js
   Quote API endpoints
